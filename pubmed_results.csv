@@ -1,11 +1,12 @@
-PubmedID,Title,Publication Date,Authors
-40079240,Positive susceptibility-based contrast imaging with dephased balanced steady-state free precession.,2025 Mar 13,"Faust JF, Speier P, Krafft AJ, Patil S, Seethamraju RT, Ladd ME, Maier F"
-40079232,A dual-purification system to isolate mitochondrial subpopulations.,2025 Mar 13,"Cunningham CN, Van Vranken JG, Larios J, Heyden K, Gygi SP, Rutter J"
-40079228,"Radiological risk assessment due to radon in bottled drinking water sold in Kahramanmaraş town, Turkiye.",2025 Mar 13,"Gümbür S, Küçükönder E"
-40079227,Organelle-targeted BODIPY-conjugated platinum(IV) anticancer prodrugs for overcoming drug resistance.,2025 Mar 13,"Xu Y, Zhang F, Li M, Zhang H, Yuan Y, Lin S, Yao L, Xu S, Yuan T, Yao H"
-40079211,Electrochemical biosensing in oncology: a review advancements and prospects for cancer diagnosis.,2025 Dec,"Noreen S, Ishaq I, Saleem MH, Ali B, Muhammad Ali S, Iqbal J"
-40079203,Controversy and multiple roles of the solitary nucleus receptor Nur77 in disease and physiology.,2025 Mar 31,"Wang Y, Li N, Guan W, Wang D"
-40079200,Identification and validation of transcriptome-wide association study-derived genes as potential druggable targets for osteoarthritis.,2025 Mar 13,"Zhou X, Ye X, Yao J, Lin X, Weng Y, Huang Y, Lu Y, Shang J, Nong L"
-40079196,Exploring the impact of RPN1 on tumorigenesis and immune response in cancer.,2025 Mar 31,"Luo P, Li Z, He H, Tang Y, Zeng L, Luo L, Ouyang L, Wen M, Li Y, Jiang Y"
-40079180,"Design, synthesis and biological evaluation of pyrazolo[3,4-b]pyridine derivatives as dual CDK2/PIM1 inhibitors with potent anti-cancer activity and selectivity.",2025 Mar 13,"Elkotamy MS, Elgohary MK, Alkabbani MA, Binjubair FA, Alanazi MM, Alsulaimany M, Al-Rashood ST, Ghabbour HA, Abdel-Aziz HA"
-40079167,Developing and Implementing a Colorectal Cancer Screening Program in Uganda: Stakeholder Perceived Barriers and Opportunities.,2025 Mar,"Matovu N, Coleman HG, Mutungi G, Donnelly M, Lohfeld L, Johnston BT, Loughrey MB, Mugisha NM, McShane CM"
+PubMed_ID,Title,Publication_Date,Authors
+40079240,Positive susceptibility-based contrast imaging with dephased balanced steady-state free precession.,2025-03-13,"Faust JF, Speier P, Krafft AJ, Patil S, Seethamraju RT, Ladd ME, Maier F"
+40079232,A dual-purification system to isolate mitochondrial subpopulations.,2025-03-13,"Cunningham CN, Van Vranken JG, Larios J, Heyden K, Gygi SP, Rutter J"
+40079228,Radiological risk assessment due to radon in bottled drinking water sold in Kahramanmaraş town, Turkiye.,2025-03-13,"Gümbür S, Küçükönder E"
+40079227,Organelle-targeted BODIPY-conjugated platinum(IV) anticancer prodrugs for overcoming drug resistance.,2025-03-13,"Xu Y, Zhang F, Li M, Zhang H, Yuan Y, Lin S, Yao L, Xu S, Yuan T, Yao H"
+40079211,Electrochemical biosensing in oncology: a review advancements and prospects for cancer diagnosis.,2025-12-01,"Noreen S, Ishaq I, Saleem MH, Ali B, Muhammad Ali S, Iqbal J"
+40079203,Controversy and multiple roles of the solitary nucleus receptor Nur77 in disease and physiology.,2025-03-31,"Wang Y, Li N, Guan W, Wang D"
+40079200,Identification and validation of transcriptome-wide association study-derived genes as potential druggable targets for osteoarthritis.,2025-03-13,"Zhou X, Ye X, Yao J, Lin X, Weng Y, Huang Y, Lu Y, Shang J, Nong L"
+40079196,Exploring the impact of RPN1 on tumorigenesis and immune response in cancer.,2025-03-31,"Luo P, Li Z, He H, Tang Y, Zeng L, Luo L, Ouyang L, Wen M, Li Y, Jiang Y"
+40079180,Design, synthesis and biological evaluation of pyrazolo[3,4-b]pyridine derivatives as dual CDK2/PIM1 inhibitors with potent anti-cancer activity and selectivity.,2025-03-13,"Elkotamy MS, Elgohary MK, Alkabbani MA, Binjubair FA, Alanazi MM, Alsulaimany M, Al-Rashood ST, Ghabbour HA, Abdel-Aziz HA"
+40079167,Developing and Implementing a Colorectal Cancer Screening Program in Uganda: Stakeholder Perceived Barriers and Opportunities.,2025-03-01,"Matovu N, Coleman HG, Mutungi G, Donnelly M, Lohfeld L, Johnston BT, Loughrey MB, Mugisha NM, McShane CM"
+
